@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedUpCoreAPIExample", "SpeedUpCoreAPIExample\SpeedUpCoreAPIExample.csproj", "{9512F37B-7D58-49D5-997B-3051D11AAEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9512F37B-7D58-49D5-997B-3051D11AAEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9512F37B-7D58-49D5-997B-3051D11AAEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9512F37B-7D58-49D5-997B-3051D11AAEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9512F37B-7D58-49D5-997B-3051D11AAEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B77B6F7D-CAAA-4304-A7C8-B4C2E8CB65AD}
+	EndGlobalSection
+EndGlobal
