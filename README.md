@@ -1,5 +1,5 @@
 # Speed-up-ASP.NET-Core-WEB-API-app-Part1
-Speed up ASP.NET Core WEB API application. Part 1.
+Creating a test RESTful WEB API application.
 
 The article is divided into two parts:
 
