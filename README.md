@@ -3,7 +3,7 @@ Creating a test RESTful WEB API application.
 
 The article is divided into three parts:
 
-Part 1. Creating a test RESTful WEB API application: https://github.com/EduardSilantiev/Speed-up-ASP.NET-Core-WEB-API-app-Part1</br>
+<b>Part 1. Creating a test RESTful WEB API application:</b> https://github.com/EduardSilantiev/Speed-up-ASP.NET-Core-WEB-API-app-Part1</br>
 Part 2. Using various approaches to increase the application's productivity: https://github.com/EduardSilantiev/Speed-up-ASP.NET-Core-WEB-API-app-Part2</br>
 Part 3. Deep refactoring and refinement of ASP.NET Core WEB API application code: https://github.com/EduardSilantiev/Speed-up-ASP.NET-Core-WEB-API-app-Part3
 
